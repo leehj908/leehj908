@@ -51,4 +51,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leehj908)](https://solved.ac/leehj908/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=leehj908&theme=warm)
 
+<img src="https://ghchart.rshah.org/leehj908" />
+
 </div>
